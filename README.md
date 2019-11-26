@@ -1,4 +1,5 @@
 # Gateway-TCP-Pulse-Modbus-
+KJ - jack2727272000@gmail.com
 ## 1.修改歷史
 | 版本  | 修改日期	| 修改內容| 
 | ---- |:---------:| ------:|
